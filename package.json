@@ -1,0 +1,24 @@
+{
+  "name": "blog",
+  "description": "Personal blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "handlebars": "^2.0.0",
+    "metalsmith": "^1.2.0",
+    "metalsmith-markdown": "^0.2.1",
+    "metalsmith-templates": "^0.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeanleonino/blog.git"
+  },
+  "author": "Jean Lucas",
+  "homepage": "https://github.com/jeanleonino/blog",
+  "dependencies": {
+    "handlebars": "^2.0.0",
+    "metalsmith": "^1.2.0",
+    "metalsmith-markdown": "^0.2.1",
+    "metalsmith-templates": "^0.6.0"
+  },
+}
